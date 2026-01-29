@@ -1,0 +1,8 @@
+# Log files
+*.log
+
+# Compiled Java files
+*.class
+
+# Node dependencies
+node_modules/
